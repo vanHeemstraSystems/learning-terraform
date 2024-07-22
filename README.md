@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+learning-terraform
+# Learning Terraform
 
-Based on "ABC" at https://www.abc.com/
+Based on "Azure Terraformer - Terraform for Developers" at https://www.youtube.com/playlist?list=PLsOrrjBMkLaQSn1tuNdpqjP2iVGCwn4gS
 
 ## 100 - Introduction
 
