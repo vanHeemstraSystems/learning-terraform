@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-terraform/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-terraform/actions/workflows/publish.yml)
+
 learning-terraform
 # Learning Terraform
 
