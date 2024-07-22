@@ -2,7 +2,7 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-== IMAGE: Learning-Terraform_User-Stories ==
+![Learning-Terraform-Resources_User-Stories](https://github.com/user-attachments/assets/579573c2-bfa8-4424-865d-0395103a066e)
 
 Terraform
 
