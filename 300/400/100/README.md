@@ -18,7 +18,7 @@ Scan articles, table of contents, Wikipedia pages, etc. to get an idea of what t
 | Resource Outputs | See on Project Board: "Step 1: Get the Big Picture" at ... |
 | Lists & Counts | See on Project Board: "Step 1: Get the Big Picture" at ... |
 | Boolean Variables & Conditionals | See on Project Board: "Step 1: Get the Big Picture" at ... |
-| IF BBLOCK | See on Project Board: "Step 1: Get the Big Picture" at ... |
+| IF BLOCK | See on Project Board: "Step 1: Get the Big Picture" at ... |
 | Output Command | See on Project Board: "Step 1: Get the Big Picture" at ... |
 | Modules | See on Project Board: "Step 1: Get the Big Picture" at ... |
 | Module Resource Paths | See on Project Board: "Step 1: Get the Big Picture" at ... |
