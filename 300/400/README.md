@@ -4,7 +4,7 @@ Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@Clr
 
 == IMAGE: Learning-Terraform_User-Stories ==
 
-Card Magic
+Terraform
 
 **Planning Your Minimum Viable Product (MVP)**
 
