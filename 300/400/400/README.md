@@ -37,34 +37,36 @@ Gather resources from the Internet, libraries, forums, etc. that might be useful
 
 ## Add Images to Pinterest
 
-Use **Boards** to categorize these (e.g., ```Shuffle```).
+Use **Boards** to categorize these (e.g., ```Resources, Data Sources and Locals```).
 
 See https://pinterest.com
 
 ## Add URLs to Pocket.io
 
-Use Tags to categorize these (e.g., ```Shuffle```).
+Use Tags to categorize these (e.g., ```Resources, Data Sources and Locals```).
 
 See https://getpocket.com
 
 ## Add Media to Envato
 
-Use **Favourites** to list these (e.g., ```Shuffle```).
+Use **Favourites** to list these (e.g., ```Resources, Data Sources and Locals```).
 
 See https://envato.com
 
 ## Add Documents to ...
 
-Use **Tags** to categorize these (e.g., ```Cheatsheets on Shuffle```).
+Use **Tags** to categorize these (e.g., ```Cheatsheets on Resources, Data Sources and Locals```).
 
 ## Link Tutorials to ...
 
-Use **Tags** to categorize these (e.g., ```Shuffle```).
+Use **Tags** to categorize these (e.g., ```Resources, Data Sources and Locals```).
 
 See https://youtube.com
 
+See "Resources, Data Sources and Locals" at https://www.youtube.com/watch?v=Rk5WSxiOSQs&list=PLsOrrjBMkLaQSn1tuNdpqjP2iVGCwn4gS&index=1&pp=iAQB
+
 ## Link Courses to ...
 
-Use **Tags** to categorize these (e.g., ```Shuffle```).
+Use **Tags** to categorize these (e.g., ```Resources, Data Sources and Locals```).
 
 See https://linuxacademy.com
