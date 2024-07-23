@@ -5,6 +5,18 @@ learning-terraform
 
 Based on "Azure Terraformer - Terraform for Developers" at https://www.youtube.com/playlist?list=PLsOrrjBMkLaQSn1tuNdpqjP2iVGCwn4gS
 
+Based on "Learning" at https://github.com/vanHeemstraSystems/learning
+
+Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
+
+Can be read as "Learning - Terraform" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
+
+Can be browsed as "Learning - Terraform" at https://vanheemstrasystems.github.io/learning-terraform/
+
+Roadmap to Learning Terraform at https://roadmap.sh/terraform
+
+Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
