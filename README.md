@@ -5,6 +5,8 @@ learning-terraform
 
 Based on "Azure Terraformer - Terraform for Developers" at https://www.youtube.com/playlist?list=PLsOrrjBMkLaQSn1tuNdpqjP2iVGCwn4gS
 
+Based on "A Terraform-AWS starter template on Gitpod" at https://github.com/gitpod-io/template-terraform-aws
+
 Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
