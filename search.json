@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning - Terraform",
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-terraform-use-cases/"
   },
   {
     "objectID": "SUMMARY.html",
@@ -14,13 +14,6 @@
     "text": "Table of contents\n\nLearning Terraform"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "initiative.html",
     "href": "initiative.html",
     "title": "Initiative",
@@ -28,11 +21,11 @@
     "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-terraform-initiative/"
   },
   {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning - Terraform",
     "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-terraform-use-cases/"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "themes.html",
@@ -40,5 +33,12 @@
     "title": "Themes",
     "section": "",
     "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-terraform-themes/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
