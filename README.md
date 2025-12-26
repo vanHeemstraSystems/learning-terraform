@@ -28,6 +28,8 @@ learning-terraform/
     └── secure-deployments/
 ```
 
+- [References](./REFERENCES.md)
+
 Based on "Azure Terraformer - Terraform for Developers" at https://www.youtube.com/playlist?list=PLsOrrjBMkLaQSn1tuNdpqjP2iVGCwn4gS
 
 Based on "A Terraform-AWS starter template on Gitpod" at https://github.com/gitpod-io/template-terraform-aws
